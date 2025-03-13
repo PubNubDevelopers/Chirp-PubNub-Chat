@@ -22,7 +22,7 @@ Chirp’s SDKs allows you to send small amounts of data over sound. It is design
 
 <ul>
  	<li>Sign up for a <a href="https://developers.chirp.io" target="_blank" rel="noopener noreferrer">Chirp account</a>. Get your Chirp key from the <a href="https://developers.chirp.io/applications" target="_blank" rel="noopener noreferrer">applications page</a>.</li>
- 	<li>Sign up for a <a href="https://dashboard.pubnub.com/signup/" target="_blank" rel="noopener noreferrer">PubNub account </a>(always free). Once you sign up, you can get your unique PubNub keys from the <a href="https://admin.pubnub.com/" target="_blank" rel="noopener noreferrer">PubNub Admin Dashboard</a>. Sign up using the form below.</li>
+ 	<li>Sign up for a <a href="https://admin.pubnub.com/register" target="_blank" rel="noopener noreferrer">PubNub account </a>(always free). Once you sign up, you can get your unique PubNub keys from the <a href="https://admin.pubnub.com/" target="_blank" rel="noopener noreferrer">PubNub Admin Dashboard</a>. Sign up using the form below.</li>
 </ul>
 
 Replace “YOUR_PUBNUB_PUBLISH_KEY_HERE” and “YOUR_PUBNUB_SUBSCRIBE_KEY_HERE” with your Publish Key and Subscribe Key from the <a href="https://admin.pubnub.com/" target="_blank" rel="noopener noreferrer">PubNub Admin Dashboard</a>.
